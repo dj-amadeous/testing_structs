@@ -4,10 +4,10 @@
 #include <stdlib.h>
 #include "test.h"
 
-/*struct node_str{
+struct node_str{
     int data;
     NODE * next;
-};*/
+};
 
 
 /*NODE test_node(){
