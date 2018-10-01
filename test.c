@@ -4,13 +4,13 @@
 #include <stdlib.h>
 #include "test.h"
 
-struct node_str{
+/*struct node_str{
     int data;
     NODE * next;
-};
+};*/
 
 
-NODE test_node(){
-    NODE test = (NODE)malloc(sizeof(struct node_str));
+/*NODE test_node(){
+
     return test;
-}
+}*/
